@@ -1,0 +1,1 @@
+document.cookie = "POPUPCHECK=0; expires="+new Date().toGMTString()+"; path=/";//:)
