@@ -26,6 +26,30 @@ Semmel abreiben und halbieren. Milch mit Eigelb, Zucker, Vanillezucker und Zitro
 
 ![Tortenboden](img/tortenboden-tante-agnes.jpg)
 
+## Hirsepuffer
+
+- 2 bis 4 Eier
+- Hirse (20 min in Gemüsebrühe kochen)
+- Haferflocken
+- Schnittlauch
+- Pfeffer
+- Salz
+- Muskat
+
+![Hirsepuffer](img/hirsepuffer.jpg)
+
+## Aprikosenknödel
+
+- 250g Quark
+- 250g Mehl
+- 2 kleine Eier
+- 1 Prise Salz (*nicht unbedingt*)
+- etwas Backpulver (*nicht unbedingt*)
+
+In kochendes Salzwasser hineingeben und 10 bis 15 min ziehen lassen, nicht kochen.
+
+![Aprikosenknödel](img/aprikosenknoedel.jpg)
+
 ## Zimt-Waffeln
 
 - 125g Margarine
