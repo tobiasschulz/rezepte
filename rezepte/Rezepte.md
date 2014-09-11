@@ -1,3 +1,8 @@
+---
+layout: default
+title: Rezepte
+---
+
 # Rezepte
 
 - [Kartäuser Klöße (Tante Agnes)](Kartaeuser_Kloesse.md)
