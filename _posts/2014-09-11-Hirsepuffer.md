@@ -13,4 +13,4 @@ title: Hirsepuffer
 - Salz
 - Muskat
 
-<img alt="Hirsepuffer" src="{{site.baseurl}}/img/hirsepuffer.jpg" style="width: 200px;" />
+<img alt="Hirsepuffer" src="{{site.baseurl}}/img/hirsepuffer.jpg" class="original_rezept" />
