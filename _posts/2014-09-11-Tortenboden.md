@@ -1,5 +1,6 @@
 ---
 layout: default
+type: rezept
 title: Tortenboden (Tante Agnes)
 ---
 

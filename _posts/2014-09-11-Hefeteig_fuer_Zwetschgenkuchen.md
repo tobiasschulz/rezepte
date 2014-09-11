@@ -1,5 +1,6 @@
 ---
 layout: default
+type: rezept
 title: Hefeteig für Zwetschgenkuchen
 ---
 

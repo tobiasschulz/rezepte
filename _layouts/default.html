@@ -22,12 +22,14 @@
     <header>
       {% include header.html %}
     </header>
-    <nav>
-      {% include navigation.html %}
-    </nav>
-    <article class="markdown-body">
-      {{ content }}
-    </article>
+    <div class="markdown-body">
+      <article>
+        {{ content }}
+      </article>
+      <nav>
+        {% include navigation.html %}
+      </nav>
+    </div>
     <footer>
       {% include footer.html %}
     </footer>

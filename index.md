@@ -1,5 +1,6 @@
 ---
 layout: default
+type: index
 title: Rezepte
 ---
 
