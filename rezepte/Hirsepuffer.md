@@ -8,6 +8,4 @@
 - Salz
 - Muskat
 
-![Hirsepuffer](img/hirsepuffer.jpg)
-
-<link rel="stylesheet" href="css/rezepte.css">
+<img alt="Hirsepuffer" src="img/hirsepuffer.jpg" style="width: 200px;" />
