@@ -29,5 +29,5 @@ title: Haselnuss-Kuchen
 - Zitrone
 - Vanille
 
-<img alt="Haselnuss-Kuchen" src="{{site.baseurl}}/img/haselnusskuchen.jpg" class="original_rezept" />
+<a href="{{site.baseurl}}/img/haselnusskuchen.jpg"><img alt="Haselnuss-Kuchen" src="{{site.baseurl}}/img/haselnusskuchen.jpg" class="original_rezept" /></a>
 

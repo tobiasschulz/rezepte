@@ -13,5 +13,5 @@ title: Aprikosenknödel
 
 In kochendes Salzwasser hineingeben und 10 bis 15 min ziehen lassen, nicht kochen.
 
-<img alt="Aprikosenknödel" src="{{site.baseurl}}/img/aprikosenknoedel.jpg" class="original_rezept" />
+<a href="{{site.baseurl}}/img/aprikosenknoedel.jpg"><img alt="Aprikosenknödel" src="{{site.baseurl}}/img/aprikosenknoedel.jpg" class="original_rezept" /></a>
 

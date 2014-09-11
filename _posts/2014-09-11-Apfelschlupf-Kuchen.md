@@ -21,4 +21,4 @@ Rührteig herstellen.
 
 Backzeit: 25 min bei ca. 160 Grad
 
-<img alt="Apfelschlupf-Kuchen" src="{{site.baseurl}}/img/apfelschlupf-kuchen.jpg" class="original_rezept" />
+<a href="{{site.baseurl}}/img/apfelschlupf-kuchen.jpg"><img alt="Apfelschlupf-Kuchen" src="{{site.baseurl}}/img/apfelschlupf-kuchen.jpg" class="original_rezept" /></a>
