@@ -1,0 +1,27 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <link rel="stylesheet" href="{{site.baseurl}}css/github-markdown.css">
+  </head>
+  <body>
+  <div id="wrapper">
+    <header>
+      {% include header.html %}
+    </header>
+    <nav>
+      {% include ../rezepte/Rezepte.md %}
+    </nav>
+    <article id="content">
+      {{ content }}
+    </article>
+    <footer>
+      {% include footer.html %}
+    </footer>
+  </div>
+</body>
+</html>
