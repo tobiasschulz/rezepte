@@ -10,3 +10,4 @@
 
 ![Hirsepuffer](img/hirsepuffer.jpg)
 
+<link rel="stylesheet" href="css/rezepte.css">
