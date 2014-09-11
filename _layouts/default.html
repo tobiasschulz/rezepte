@@ -6,7 +6,15 @@
   <head>
     <title>{{ page.title }}</title>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-    <link rel="stylesheet" href="{{site.baseurl}}css/github-markdown.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/css/github-markdown.css">
+    <style>
+      .markdown-body {
+          min-width: 200px;
+          max-width: 790px;
+          margin: 0 auto;
+          padding: 30px;
+      }
+    </style>
   </head>
   <body>
   <div id="wrapper">
@@ -14,9 +22,9 @@
       {% include header.html %}
     </header>
     <nav>
-      {% include ../rezepte/Rezepte.md %}
+      {% include navigation.html %}
     </nav>
-    <article id="content">
+    <article class="markdown-body">
       {{ content }}
     </article>
     <footer>
