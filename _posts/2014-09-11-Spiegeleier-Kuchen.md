@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Spiegeleier"-Kuchen
+title: Spiegeleier-Kuchen
 ---
 
 ## "Spiegeleier"-Kuchen
