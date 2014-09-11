@@ -1,4 +1,4 @@
 rezepte
 =======
 
-Hier geht es zu den Kochrezepten: [Rezepte](rezepte/Rezepte.md)
+Hier geht es zu den Kochrezepten: [Rezepte](http://www.tobias-schulz.eu/rezepte/)
