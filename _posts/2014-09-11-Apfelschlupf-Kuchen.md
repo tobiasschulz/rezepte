@@ -1,3 +1,8 @@
+---
+layout: default
+title: Apfelschlupf-Kuchen
+---
+
 ## Apfelschlupf-Kuchen
 
 Für 26cm Springform:

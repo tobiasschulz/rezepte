@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Spiegeleier"-Kuchen
+---
+
 ## "Spiegeleier"-Kuchen
 
 Rührteig oder Knetteig auf Backblech streichen.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Haselnuss-Kuchen
+---
+
 ## Haselnuss-Kuchen
 
 ### Variante 1

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hefeteig für Zwetschgenkuchen
+---
+
 ## Hefeteig für Zwetschgenkuchen
 
 Für ein Backblech:

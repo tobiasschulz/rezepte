@@ -1,3 +1,8 @@
+---
+layout: default
+title: Aprikosenknödel
+---
+
 ## Aprikosenknödel
 
 - 250g Quark

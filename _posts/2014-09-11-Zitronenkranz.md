@@ -1,3 +1,8 @@
+---
+layout: default
+title: Zitronenkranz
+---
+
 ## Zitronenkranz
 
 Rührteig für Kranzform (28cm):

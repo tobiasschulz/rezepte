@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kartäuser Klöße (Tante Agnes)
+---
+
 ## Kartäuser Klöße (Tante Agnes)
 
 - 6-8 altbackene Semmel

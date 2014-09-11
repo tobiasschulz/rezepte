@@ -1,3 +1,8 @@
+---
+layout: default
+title: Selters-Kuchen
+---
+
 ## Selters-Kuchen
 
 - 2 Tassen Zucker

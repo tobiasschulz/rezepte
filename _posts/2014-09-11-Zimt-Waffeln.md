@@ -1,3 +1,8 @@
+---
+layout: default
+title: Zimt-Waffeln
+---
+
 ## Zimt-Waffeln
 
 - 125g Margarine
