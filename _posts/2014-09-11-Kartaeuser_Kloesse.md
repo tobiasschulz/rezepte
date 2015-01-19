@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: rezepte
 type: rezept
 title: Kartäuser Klöße (Tante Agnes)
 ---
