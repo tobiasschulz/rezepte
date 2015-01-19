@@ -23,5 +23,5 @@ Dann auf dem noch warmen Kuchen den Guss geben:
 - 1 Teelöffel Butter
 - heißes Wasser 2-3 Esslöffel
 
-<a href="{{site.baseurl}}/img/selters-kuchen.jpg"><img alt="Selters-Kuchen" src="{{site.baseurl}}/img/selters-kuchen.jpg" class="original_rezept" /></a>
+<a href="{{site.baseurl_rezepte}}/img/selters-kuchen.jpg"><img alt="Selters-Kuchen" src="{{site.baseurl_rezepte}}/img/selters-kuchen.jpg" class="original_rezept" /></a>
 

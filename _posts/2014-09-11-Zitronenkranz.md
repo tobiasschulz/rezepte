@@ -19,5 +19,5 @@ Rührteig für Kranzform (28cm):
 Rührteig herstellen, in gefettete Kranzform füllen und auf die untere Schiene in den **kalten** Backofen schieben.
 Backzeit 60 min bei 180-200 Grad.
 
-<a href="{{site.baseurl}}/img/zitronenkranz.jpg"><img alt="Zitronenkranz" src="{{site.baseurl}}/img/zitronenkranz.jpg" class="original_rezept" /></a>
+<a href="{{site.baseurl_rezepte}}/img/zitronenkranz.jpg"><img alt="Zitronenkranz" src="{{site.baseurl_rezepte}}/img/zitronenkranz.jpg" class="original_rezept" /></a>
 

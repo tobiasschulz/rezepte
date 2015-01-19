@@ -20,5 +20,5 @@ Für ein Backblech:
 
 Milch und Zucker und Salz lauwarm machen. Butter darin auflösen, nicht heiß werden lassen. Ei hineingeben. Verrühren. Dies alles in die Schüssel mit Mehl + Hefe tun.
 
-<a href="{{site.baseurl}}/img/hefeteig-zwetschgenkuchen.jpg"><img alt="Hefeteig für Zwetschgenkuchen" src="{{site.baseurl}}/img/hefeteig-zwetschgenkuchen.jpg" class="original_rezept" /></a>
+<a href="{{site.baseurl_rezepte}}/img/hefeteig-zwetschgenkuchen.jpg"><img alt="Hefeteig für Zwetschgenkuchen" src="{{site.baseurl_rezepte}}/img/hefeteig-zwetschgenkuchen.jpg" class="original_rezept" /></a>
 

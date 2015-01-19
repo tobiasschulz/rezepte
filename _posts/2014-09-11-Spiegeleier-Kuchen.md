@@ -23,5 +23,5 @@ Backzeit 30 min. Gebäck 10 min im ausgeschalteten Ofen stehenlassen, herausnehm
 
 2 Pächen Tortenguss klar, 25g Zucker, 250ml Aprokosensaft, 250g Wasser
 
-<a href="{{site.baseurl}}/img/spiegeleier-kuchen.jpg"><img alt=""Spiegeleier"-Kuchen" src="{{site.baseurl}}/img/spiegeleier-kuchen.jpg" class="original_rezept" /></a>
+<a href="{{site.baseurl_rezepte}}/img/spiegeleier-kuchen.jpg"><img alt=""Spiegeleier"-Kuchen" src="{{site.baseurl_rezepte}}/img/spiegeleier-kuchen.jpg" class="original_rezept" /></a>
 
