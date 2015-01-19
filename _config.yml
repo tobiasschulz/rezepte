@@ -5,4 +5,4 @@ highlighter: pygments
 permalink: /:title
 gems:
   - jekyll-mentions
-baseurl: /rezepte
+baseurl: /rezepte/
