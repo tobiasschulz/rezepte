@@ -2,6 +2,8 @@
 layout: rezepte
 type: rezept
 title: Tortenboden (Tante Agnes)
+categories:
+ - Rezepte
 ---
 
 ## Tortenboden (Tante Agnes)

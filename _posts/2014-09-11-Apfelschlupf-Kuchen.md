@@ -2,6 +2,8 @@
 layout: rezepte
 type: rezept
 title: Apfelschlupf-Kuchen
+categories:
+ - Rezepte
 ---
 
 ## Apfelschlupf-Kuchen

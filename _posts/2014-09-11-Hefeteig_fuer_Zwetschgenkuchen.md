@@ -2,6 +2,8 @@
 layout: rezepte
 type: rezept
 title: Hefeteig für Zwetschgenkuchen
+categories:
+ - Rezepte
 ---
 
 ## Hefeteig für Zwetschgenkuchen

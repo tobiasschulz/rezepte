@@ -2,6 +2,8 @@
 layout: rezepte
 type: rezept
 title: Haselnuss-Kuchen
+categories:
+ - Rezepte
 ---
 
 ## Haselnuss-Kuchen

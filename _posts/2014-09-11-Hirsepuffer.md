@@ -2,6 +2,8 @@
 layout: rezepte
 type: rezept
 title: Hirsepuffer
+categories:
+ - Rezepte
 ---
 
 ## Hirsepuffer

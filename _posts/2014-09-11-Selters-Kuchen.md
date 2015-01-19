@@ -2,6 +2,8 @@
 layout: rezepte
 type: rezept
 title: Selters-Kuchen
+categories:
+ - Rezepte
 ---
 
 ## Selters-Kuchen

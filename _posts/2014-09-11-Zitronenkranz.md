@@ -2,6 +2,8 @@
 layout: rezepte
 type: rezept
 title: Zitronenkranz
+categories:
+ - Rezepte
 ---
 
 ## Zitronenkranz

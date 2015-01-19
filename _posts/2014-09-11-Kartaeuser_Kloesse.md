@@ -2,6 +2,8 @@
 layout: rezepte
 type: rezept
 title: Kartäuser Klöße (Tante Agnes)
+categories:
+ - Rezepte
 ---
 
 ## Kartäuser Klöße (Tante Agnes)

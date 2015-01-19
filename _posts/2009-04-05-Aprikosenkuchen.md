@@ -2,6 +2,8 @@
 layout: rezepte
 type: rezept
 title: Aprikosenkuchen
+categories:
+ - Rezepte
 ---
 
 ## Aprikosenkuchen

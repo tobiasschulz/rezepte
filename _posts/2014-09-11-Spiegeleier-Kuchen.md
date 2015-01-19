@@ -2,6 +2,8 @@
 layout: rezepte
 type: rezept
 title: Spiegeleier-Kuchen
+categories:
+ - Rezepte
 ---
 
 ## "Spiegeleier"-Kuchen

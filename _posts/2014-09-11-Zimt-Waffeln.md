@@ -2,6 +2,8 @@
 layout: rezepte
 type: rezept
 title: Zimt-Waffeln
+categories:
+ - Rezepte
 ---
 
 ## Zimt-Waffeln
